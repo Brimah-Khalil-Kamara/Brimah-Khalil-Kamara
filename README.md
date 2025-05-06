@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>Terraform Demo Project Automate AWS Infrastructure</b>
-  - Automating AWS Infrastructure with Terraform (https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
-- <b>GCP Intro To Terraform GCP Infrastructure</b>
-  - Setting up basic Terraform Project using Github practices on Google Cloud Platform (https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
+- [Terraform Demo Project. Automating AWS Infrastructure with Terraform](https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
+- [GCP Intro To Terraform GCP Infrastructure](https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
         
 
 <h2>📄 Certifications</h2>
