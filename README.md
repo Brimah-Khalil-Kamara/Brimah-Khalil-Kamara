@@ -4,7 +4,7 @@
 
 - <b>Terraform Demo Project Automate AWS Infrastructure</b>
   - Automating AWS Infrastructure with Terraform (https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
-- <b>GCP Intro To Terraform</b>
+- <b>GCP Intro To Terraform GCP Infrastructure</b>
   - Setting up basic Terraform Project using Github practices on Google Cloud Platform (https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4)
         
 
