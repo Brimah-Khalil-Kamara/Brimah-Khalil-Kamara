@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brimah! <br/><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Architect</a>, <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Professional</a>, <a href="[https://www.youtube.com/c/joshmadakor](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)">Cloud Network Engineer</a></h1>
+<h1>Hi, I'm Brimah! <br/><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Architect</a>, <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Professional</a>, <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Network Engineer</a></h1>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
