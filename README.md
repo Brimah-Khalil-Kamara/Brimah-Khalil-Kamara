@@ -6,12 +6,12 @@
 I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering practices. I am deeply passionate about Networking and Security and hope to transfer these skills into the cloud space using GCP and AWS platforms, while adopting IAC methodologies such as Terraform to build and scale infrastructures in the cloud.
 
 
-## Skills 👨‍💻 Cloud Projects
+## 👨‍💻 Skills Cloud Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Automation with Terraform                     | <a href="https://https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
-| GCP Intro To Terraform GCP Infrastructure     | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
+| Intro To Terraform GCP Infrastructure         | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
 
 
         
