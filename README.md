@@ -8,7 +8,7 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 
 ## 👨‍💻 Skills - Cloud Projects
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Cloud Project         |
 |-----------------------------------------------|----------------------------|
 | Automation with Terraform                     | <a href="https://https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
 | Intro To Terraform GCP Infrastructure         | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
