@@ -14,12 +14,13 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 
 ## 👨‍💻 Skills - Cloud Projects
 
-| Skill                                         | Cloud Project         |
-|-----------------------------------------------|----------------------------|
-| Automation with Terraform                     | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
-| Intro To Terraform GCP Infrastructure         | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
-| Jenkins CI/CD pipeline in AWS                 | Jenkins Installation|
-| Snyk for Vulnerability Management in AWS	| Cloud Security Lab|
+| Skill                                            | Cloud Project         |
+|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
+| Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
+| Git actions with Terraform, CI/CD pipeline in GCP|     |
+| Jenkins CI/CD pipeline in AWS                    | Jenkins Installation|
+| Snyk for Vulnerability Management in AWS	   | Cloud Security Lab|
 
 
 
