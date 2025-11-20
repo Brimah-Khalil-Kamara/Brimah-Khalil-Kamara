@@ -20,8 +20,9 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 | Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
 | GitActions CI/CD for GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Git-Actions-GCP-Snyk">Git Actions GCP Snyk Security Scan</a>    |
 | Jenkins CI/CD pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation">Jenkins Installation</a>|
+|                                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture   
 | Snyk for Vulnerability Management in AWS	   | Cloud Security Lab|
-|                                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture        
+     
 
 
         
