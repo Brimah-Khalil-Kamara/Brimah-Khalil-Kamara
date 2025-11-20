@@ -23,6 +23,11 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
      
 
+## 🔧 Technologies & Tools
+- **Cloud:** AWS, GCP  
+- **IaC:** Terraform  
+- **Networking:** Routing & Switching, Firewalls, VPNs, STP  
+- **Other:** Linux, Git, CI/CD
 
         
 
