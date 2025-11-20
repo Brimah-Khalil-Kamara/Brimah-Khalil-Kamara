@@ -67,15 +67,12 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 - KCNA  Kubernetes and Cloud Native Associate (In Progress)
 - CCNA 200-301 (In Progress)
 
-  <br>
+<br>
   
 <h2> 🤳 Connect with me:</h2>
 
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/brimah-khalil-kamara)
 
-[linkedin]: https://www.linkedin.com/in/brimah-khalil-kamara/
 
