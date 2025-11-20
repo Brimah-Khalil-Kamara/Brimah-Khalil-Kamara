@@ -75,6 +75,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/brimah-khalil-kamara)
 
 [linkedin]: https://www.linkedin.com/in/brimah-khalil-kamara/
 
