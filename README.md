@@ -10,8 +10,11 @@
 
 With a solid grounding in **Network Engineering**, I am progressing toward a **Cloud Architect** role. I’m passionate about **networking** and **security**, and I apply this expertise across **AWS** and **GCP** environments. I work with **Infrastructure-as-Code** tools—especially **Terraform**—to automate, deploy, and scale cloud infrastructure.
 
+<br>
 
 ## 👨‍💻 Skills - Cloud Projects
+
+<br>
 
 | Skill                                            | Cloud Project         |
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,21 +24,48 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 | Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation">Jenkins Installation On AWS EC2 Server</a>|
 | Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture   
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
+
      
+<br>
 
 ## 🔧 Technologies & Tools
-- **Cloud:** AWS, GCP  
-- **IaC:** Terraform  
-- **Networking:** Routing & Switching, Firewalls, VPNs, STP  
-- **Other:** Linux, Git, CI/CD
 
-        
+**Cloud**  
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=2)](https://skillicons.dev)
+
+<br>
+  
+**IaC**  
+
+[![My Skills](https://skillicons.dev/icons?i=terraform&perline=1)](https://skillicons.dev)
+
+<br>  
+
+**Networking:** Routing & Switching, Firewalls, VPNs, STP
+
+<br>
+  
+**Other** Linux, Git, CI/CD
+
+[![My Skills](https://skillicons.dev/icons?i=linux,github,git,githubactions,jenkins,kubernetes,docker&perline=7)](https://skillicons.dev)
+
+
+  
+
+<br>        
 
 <h2>📄 Certifications</h2>
 
 - SAA-C03 AWS Certified Solutions Architect Associate (In Progress)
 - Terraform Associate 003 (In Progress)
+- SOA-C03 AWS Certified AWS Certified CloudOps Engineer – Associate (In Progress)
+- Vault Associate 003 (In Progress)
+- KCNA  Kubernetes and Cloud Native Associate (In Progress)
 - CCNA 200-301 (In Progress)
+
+  <br>
   
 <h2> 🤳 Connect with me:</h2>
 
