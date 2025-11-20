@@ -58,6 +58,8 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 <h2>📄 Certifications</h2>
 
+<br>
+
 - SAA-C03 AWS Certified Solutions Architect Associate (In Progress)
 - Terraform Associate 003 (In Progress)
 - SOA-C03 AWS Certified AWS Certified CloudOps Engineer – Associate (In Progress)
