@@ -8,8 +8,7 @@
 
 
 
-
-I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering practices. I am deeply passionate about Networking and Security and hope to transfer these skills into the cloud space using GCP and AWS platforms, while adopting IAC automation methodologies such as Terraform to build and scale infrastructures in the cloud.
+With a solid grounding in **Network Engineering**, I am progressing toward a **Cloud Architect** role. I’m passionate about **networking** and **security**, and I apply this expertise across **AWS** and **GCP** environments. I work with **Infrastructure-as-Code** tools—especially **Terraform**—to automate, deploy, and scale cloud infrastructure.
 
 
 ## 👨‍💻 Skills - Cloud Projects
@@ -18,10 +17,10 @@ I'm an Aspiring Cloud Architect, with solid grounding in Network Engineering pra
 |--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
 | Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
-| GitActions CI/CD for GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Git-Actions-GCP-Snyk">Git Actions GCP Snyk Security Scan</a>    |
-| Jenkins CI/CD pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation">Jenkins Installation On AWS EC2 Server</a>|
-| Three tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture   
-| Snyk for Vulnerability Management in AWS	      | Cloud Security Lab|
+| GitActions CI/CD For GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Git-Actions-GCP-Snyk">Git Actions GCP Snyk Security Scan</a>    |
+| Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation">Jenkins Installation On AWS EC2 Server</a>|
+| Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture   
+| Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
      
 
 
