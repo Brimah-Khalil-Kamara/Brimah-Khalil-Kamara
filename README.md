@@ -24,7 +24,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 | Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-1">Jenkins Installation On AWS EC2 Server</a>|
 | Docker, Jenkins                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-2">Jenkins Installation on Docker</a>|   
 | Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture</a>|
-| Amazon ECS                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">Testing NGINX container witha public IP Address in ECS</a>|
+| Amazon ECS                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">Testing NGINX container with a public IP Address in ECS</a>|
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
 
      
