@@ -3,7 +3,9 @@
 
 # Hello, I'm Brimah
 
-<a href="https://www.linkedin.com/in/brimah-khalil-kamara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://www.linkedin.com/in/brimah-khalil-kamara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://skillicons.dev)
 
 
 
@@ -75,7 +77,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/brimah-khalil-kamara), [![My Skills](https://skillicons.dev/icons?i=notion&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723),[![My Skills](https://skillicons.dev/icons?i=discord&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/brimah-khalil-kamara) [![My Skills](https://skillicons.dev/icons?i=notion&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)[![My Skills](https://skillicons.dev/icons?i=discord&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)
 
 
 
