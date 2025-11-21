@@ -20,13 +20,13 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 | Skill                                            | Cloud Project         |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure with Terraform</a>|
+| Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure With Terraform</a>|
 | Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
 | GitActions CI/CD For GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Git-Actions-GCP-Snyk">Git Actions GCP Snyk Security Scan</a>    |
 | Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-1">Jenkins Installation On AWS EC2 Server</a>|
-| Docker, Jenkins                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-2">Jenkins Installation on Docker</a>|   
+| Docker, Jenkins                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-2">Jenkins Installation On Docker</a>|   
 | Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture</a>|
-| Amazon ECS                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Testing NGINX container with a public IP Address in ECS</a>|
+| Amazon ECS                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Testing NGINX Container With A Public IP Address in ECS</a>|
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
 
      
