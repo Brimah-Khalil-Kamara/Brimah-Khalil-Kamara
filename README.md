@@ -73,7 +73,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 <br>
   
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 <br>
 
