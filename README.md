@@ -5,7 +5,7 @@
 
 <!-- <a href="https://www.linkedin.com/in/brimah-khalil-kamara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
 
 
 
@@ -37,13 +37,13 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 **Cloud**  
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp&theme=light)](https://skillicons.dev)
 
 <br>
   
 **IaC**  
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,ansible&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible&theme=light)](https://skillicons.dev)
 
 <br>  
 
@@ -53,7 +53,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
   
 **Other** Linux, Git, CI/CD
 
-[![My Skills](https://skillicons.dev/icons?i=linux,github,git,githubactions,jenkins,kubernetes,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,github,git,githubactions,jenkins,kubernetes,docker&perline=7&theme=light)](https://skillicons.dev) ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&theme=light)
 
 
   
@@ -77,7 +77,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=7)](https://www.linkedin.com/in/brimah-khalil-kamara) [![My Skills](https://skillicons.dev/icons?i=notion&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723) [![My Skills](https://skillicons.dev/icons?i=discord&perline=7)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/brimah-khalil-kamara) [![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723) [![My Skills](https://skillicons.dev/icons?i=discord&theme=light)](https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723)
 
 
 
