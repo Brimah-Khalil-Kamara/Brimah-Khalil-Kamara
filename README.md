@@ -5,7 +5,7 @@
 
 <!-- <a href="https://www.linkedin.com/in/brimah-khalil-kamara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
-[![My Skills](https://skillicons.dev/icons?i=docker&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://skillicons.dev)
 
 
 
