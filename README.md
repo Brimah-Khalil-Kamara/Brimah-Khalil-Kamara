@@ -43,7 +43,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
   
 **IaC**  
 
-[![My Skills](https://skillicons.dev/icons?i=terraform&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,ansible&perline=2)](https://skillicons.dev)
 
 <br>  
 
