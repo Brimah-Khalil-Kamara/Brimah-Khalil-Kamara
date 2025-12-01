@@ -28,7 +28,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 | Docker, Jenkins                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-2">Jenkins Installation On Docker</a>|   
 | Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture</a>|
 | AWS ECS                                          | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Testing NGINX Container With A Public IP Address In ECS</a>|
-| Deploying AWS Lambda using Terraform             | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">LambdaUploader</a>|
+| Deploying AWS Lambda using Terraform             | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader">Lambda-Uploader</a>|
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
 
      
