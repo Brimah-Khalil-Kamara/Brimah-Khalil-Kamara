@@ -27,8 +27,8 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 | Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-1">Jenkins Installation On AWS EC2 Server</a>|
 | Docker, Jenkins                                  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-2">Jenkins Installation On Docker</a>|   
 | Three Tier Web Architecture                      | <a href="https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture">AWS Three Tier Web Architecture</a>|
-| AWS ECS                                          | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Testing NGINX Container With A Public IP Address in ECS</a>|
-| AWS Lambda                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">First AWS Lambda Function to Resize an EC2 Instance</a>|
+| AWS ECS                                          | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Testing NGINX Container With A Public IP Address In ECS</a>|
+| AWS Lambda                                       | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">Creating A Lambda Function to Resize An EC2 Instance</a>|
 | Snyk For Vulnerability Management In AWS	      | Cloud Security Lab|
 
      
