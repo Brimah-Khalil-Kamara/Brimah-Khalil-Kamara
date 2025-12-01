@@ -20,7 +20,7 @@ With a solid grounding in **Network Engineering**, I am progressing toward a **C
 
 | Skill                                            | Cloud Project         |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| AWS Cross Region Global Deployment (Armageddon)  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">(Armageddon( Cross Region Deployment Using Terraform</a>|
+| AWS Cross Region Global Deployment (ARMAGEDDON)  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ECS-NGINX">(ARMAGEDDON) Cross Region Deployment Using Terraform</a>|
 | Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure With Terraform</a>|
 | Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
 | GitActions CI/CD For GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Git-Actions-GCP-Snyk">Git Actions GCP Snyk Security Scan</a>    |
