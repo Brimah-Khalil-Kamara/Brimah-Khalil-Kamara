@@ -70,6 +70,7 @@ I focus on Ifrastructure as Code, CI/CD pipelines and cloud networking to guild 
 <br>
 
 - SAA-C03 AWS Certified Solutions Architect Associate (In Progress)
+- ANS-C01 AWS Certified Advanced Networking - Specialty (In Progress)
 - Terraform Associate 003 (In Progress)
 - SOA-C03 AWS Certified AWS Certified CloudOps Engineer – Associate (In Progress)
 - Vault Associate 003 (In Progress)
