@@ -8,9 +8,11 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
 
 
+Cloud Infrastructure and DevOps Engineer with a strong foundation in network engineering. I specialise in building scalable and secure cloud platforms using AWS, Terraform and Kubernetes. 
 
+My background in CISCO networking combined with cloud architecture allows me to design robust VPC architectures, hybrid connectivity and automated infrastructure.
 
-With a solid grounding in **Network Engineering**, I am progressing toward a **Cloud Architect** role. I’m passionate about **networking** and **security**, and I apply this expertise across **AWS** and **GCP** environments. I work with **Infrastructure-as-Code** tools—especially **Terraform**—to automate, deploy, and scale cloud infrastructure.
+I focus on Ifrastructure as Code, CI/CD pipelines and cloud networking to guild reliable, production-ready environments across AWS and GCP
 
 <br>
 
