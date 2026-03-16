@@ -22,7 +22,7 @@ I focus on Infrastructure as Code (Terraform), Containerization (Docker), and CI
 | Project Name | Professional Title | Network Depth |
 | :--- | :--- | :--- |
 | **[ARMAGEDDON](https://github.com/Brimah-Khalil-Kamara/Project-ARMAGEDDON-AWS-Global-Compliance-Architecture)** | `aws-global-compliance-architecture` | **Inter-Region Peering & Data Sovereignty:** Orchestrated a 7-region mesh without VPNs; engineered strict PII isolation to Japan-based private subnets. |
-| **[Three Tier Stack](https://github.com/Brimah-Khalil-Kamara/Project-SNYK-IAC-Security-Automation)** | `aws-secure-three-tier-stack` | **VPC Segmentation:** Designed Public/Private/Data isolation layers using specialized Route Tables, NAT Gateways, and IGW pathing. |
+| **[Three Tier Stack](https://github.com/Brimah-Khalil-Kamara/Project-AWS-Three-Tier-Web-Architecture)** | `aws-secure-three-tier-stack` | **VPC Segmentation:** Designed Public/Private/Data isolation layers using specialized Route Tables, NAT Gateways, and IGW pathing. |
 | **[Snyk Security](https://github.com/Brimah-Khalil-Kamara/Project-SNYK-IAC-Security-Automation)** | `snyk-iac-security-automation` | **Traffic Guardrails:** Automated DevSecOps scanning for 0.0.0.0/0 ingress risks, unauthorized ports, and overly permissive Security Groups. |
 | **[Lambda Pipeline](https://github.com/your-link)** | `serverless-event-driven-pipeline` | **Service-to-Service Connectivity:** Managed internal event-driven traffic flows between EC2, S3, and Lambda within the AWS network backbone. |
 | **[ECS NGINX](https://github.com/your-link)** | `containerized-web-orchestration` | **Container Networking:** Implemented Fargate networking modes and task-level Security Groups for public-facing containerized service isolation. |
