@@ -1,5 +1,5 @@
 <h1><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">
-Cloud Infrastructure & DevOps Engineer</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">AWS Networking Specialist</a>
+Cloud Infrastructure & DevOps Engineer</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Network Engineering Specialist</a>
      
 # Hi, I'm Brimah
 
