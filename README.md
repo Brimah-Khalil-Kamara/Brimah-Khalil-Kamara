@@ -26,7 +26,7 @@ I focus on Infrastructure as Code (Terraform), Containerization (Docker), and CI
 | **[Snyk Security](https://github.com/Brimah-Khalil-Kamara/Project-SNYK-IAC-Security-Automation)** | `snyk-iac-security-automation` | **Traffic Guardrails:** Automated DevSecOps scanning for 0.0.0.0/0 ingress risks, unauthorized ports, and overly permissive Security Groups. |
 | **[Lambda Pipeline](https://github.com/Brimah-Khalil-Kamara/Project-Lambda-Uploader)** | `serverless-event-driven-pipeline` | **Service-to-Service Connectivity:** Managed internal event-driven traffic flows between EC2, S3, and Lambda within the AWS network backbone. |
 | **[ECS NGINX](https://github.com/your-link)** | `containerized-web-orchestration` | **Container Networking:** Implemented Fargate networking modes and task-level Security Groups for public-facing containerized service isolation. |
-| **[Jenkins on EC2](https://github.com/your-link)** | `automated-jenkins-controller` | **Inbound Traffic Control:** Hardened the CI/CD controller using CIDR-restricted Security Groups (Port 8080/22) and SSH-key authenticated tunneling for secure remote management. |
+| **[Jenkins on EC2](https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-1)** | `automated-jenkins-controller` | **Inbound Traffic Control:** Hardened the CI/CD controller using CIDR-restricted Security Groups (Port 8080/22) and SSH-key authenticated tunneling for secure remote management.|
 | **[Jenkins on Docker](https://github.com/your-link)** | `containerized-jenkins-environment` | **Container Network Isolation:** Implemented Docker bridge networking to isolate the Jenkins container from the host, utilizing port mapping and volume persistence for secure, ephemeral build environments. |
 
 <br>
