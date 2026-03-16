@@ -7,7 +7,6 @@ Cloud Infrastructure & DevOps Engineer</a> | <a href="https://www.notion.so/brim
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
 
-
 I build scalable, secure cloud platforms with a network-first approach. With a deep foundation in Cisco Networking, I bridge the gap between traditional infrastructure and modern DevOps. I specialize in designing robust VPC architectures, hybrid connectivity, and automated cloud environments.
 
 I focus on Infrastructure as Code (Terraform), Containerization (Docker), and CI/CD pipelines to build reliable, production-ready systems across AWS and GCP. My goal is to ensure cloud environments are not only automated but also architecturally sound at the networking layer.
