@@ -1,6 +1,6 @@
-<h1><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Network Engineer</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Network Security Engineer</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">Cloud Architect</a></h1>
-
-
+<h1><a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">
+Cloud Infrastructure & DevOps Engineer</a> | <a href="https://www.notion.so/brimah/Brimah-Khalil-Kamara-Cloud-Architect-33e5b68119c84f9aa39222851186f723">AWS Networking Specialist</a>
+     
 # Hi, I'm Brimah
 
 <!-- <a href="https://www.linkedin.com/in/brimah-khalil-kamara"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
@@ -8,11 +8,9 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
 
 
-Cloud Infrastructure and DevOps Engineer with a strong foundation in network engineering. I specialise in building scalable and secure cloud platforms using AWS, Terraform and Kubernetes. 
+I build scalable, secure cloud platforms with a network-first approach. With a deep foundation in Cisco Networking, I bridge the gap between traditional infrastructure and modern DevOps. I specialize in designing robust VPC architectures, hybrid connectivity, and automated cloud environments.
 
-My background in CISCO networking combined with cloud architecture allows me to design robust VPC architectures, hybrid connectivity and automated infrastructure.
-
-I focus on Ifrastructure as Code, CI/CD pipelines and cloud networking to guild reliable, production-ready environments across AWS and GCP
+I focus on Infrastructure as Code (Terraform), Containerization (Docker), and CI/CD pipelines to build reliable, production-ready systems across AWS and GCP. My goal is to ensure cloud environments are not only automated but also architecturally sound at the networking layer.
 
 <br>
 
