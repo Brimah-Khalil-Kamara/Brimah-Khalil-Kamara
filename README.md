@@ -20,7 +20,7 @@ I focus on Infrastructure as Code (Terraform), Containerization (Docker), and CI
 | Skill                                            | Cloud Project         |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | AWS Cross Region Global Deployment (ARMAGEDDON)  | <a href="https://github.com/Brimah-Khalil-Kamara/Project-ARMAGEDDON-AWS-Global-Compliance-Architecture">ARMAGEDDON AWS-Global-Compliance-Architecture </a>|
-| Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">Automating AWS Infrastructure With Terraform</a>|
+| Automation with Terraform                        | <a href="https://www.notion.so/brimah/Homework-Assignment-6-1335e543df1e80f6a946dd47a94e05b4">AWS-Infrastructure-Automation</a>|
 | Intro To Terraform GCP Infrastructure            | <a href="https://github.com/Brimah-Khalil-Kamara/terraformGCP">Terraform GCP Introduction</a>|
 | GitActions CI/CD For GCP & Snyk Security Scan    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-SNYK-IAC-Security-Automation">SNYK-IAC-Security-Automation</a>    |
 | Jenkins CI/CD Pipeline in AWS                    | <a href="https://github.com/Brimah-Khalil-Kamara/Project-Jenkins-Installation-1">Jenkins Installation On AWS EC2 Server</a>|
